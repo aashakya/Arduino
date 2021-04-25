@@ -1,0 +1,1 @@
+This is a code of playing the Chrome Offline Dinosaur game. I attached the photoresister to the laptop's screen to detect the change in light when there is an obstacle. I use a stepper motor to press the space bar when the obstacle is detected.
